@@ -55,3 +55,7 @@ p > strong {
 a > h1 {
   font-weight: 500;
 }
+
+nav > a {
+  display: none !important;
+}
