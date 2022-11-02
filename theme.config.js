@@ -1,22 +1,22 @@
 const theme = {
-  titleSuffix: " | JavaScript Patterns",
+  titleSuffix: " | дроби",
   search: true,
   unstable_flexsearch: true,
   unstable_staticImage: true,
   floatTOC: true,
   font: false,
-  github: "https://github.com/lydiahallie/javascript-react-patterns",
-  projectLink: "https://github.com/lydiahallie/javascript-react-patterns",
+  github: "https://github.com/wadadaaa/malben-fractions",
+  projectLink: "https://github.com/wadadaaa/malben-fractions",
   logo: () => (
     <>
       <img
-        src="/logo.svg"
-        height="25"
-        width="25"
+        src="/malben-logo.jpg"
+        height="50"
+        width="50"
         style={{ marginRight: "1em" }}
       />
       <h1>
-        JavaScript Patterns <span style={{ opacity: 0.2 }}></span>
+        Дроби <span style={{ opacity: 0.2 }}></span>
       </h1>
     </>
   ),
@@ -44,16 +44,16 @@ const theme = {
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="description"
-          content="Website created for the FrontendMasters course on JavaScript Patterns by Lydia Hallie"
+          content=""
         />
         <meta
           name="description"
-          content="Website for the FrontendMasters course on JavaScript Patterns by Lydia Hallie"
+          content=""
         />
         <meta name="author" content="Lydia Hallie" />
         <meta
           property="og:url"
-          content="https://javascriptpatterns.vercel.app/patterns"
+          content=""
         />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US" />
@@ -61,24 +61,24 @@ const theme = {
         <meta property="og:image:height" content="692" />
         <meta
           property="og:title"
-          content={`${props.title} | JavaScript Patterns`}
+          content={`${props.title} | дроби`}
         />
         <meta
           property="og:description"
-          content="Website created for the FrontendMasters course on JavaScript Patterns by Lydia Hallie"
+          content=""
         />
         <meta
           property="og:image"
-          content="https://javascriptpatterns.vercel.app/ogimage1.png"
+          content=""
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@lydiahallie" />
-        <meta name="twitter:creator" content="@lydiahallie" />
+        <meta name="twitter:site" content="@wadadaaaa" />
+        <meta name="twitter:creator" content="@wadadaaaa" />
       </>
     );
   },
   darkMode: true,
-  footerText: `${new Date().getFullYear()} © Lydia Hallie`,
+  footerText: `${new Date().getFullYear()} © malben`,
   nextThemes: {
     defaultTheme: "dark",
   },
