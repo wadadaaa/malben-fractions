@@ -50,13 +50,13 @@ const theme = {
           name="description"
           content=""
         />
-        <meta name="author" content="Lydia Hallie" />
+        <meta name="author" content="wadadaaa" />
         <meta
           property="og:url"
           content=""
         />
         <meta property="og:type" content="website" />
-        <meta property="og:locale" content="en_US" />
+        <meta property="og:locale" content="ru_RU" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="692" />
         <meta
