@@ -77,10 +77,10 @@ const theme = {
       </>
     );
   },
-  darkMode: true,
+  darkMode: false,
   footerText: `${new Date().getFullYear()} © malben`,
   nextThemes: {
-    defaultTheme: "dark",
+    defaultTheme: "light",
   },
 };
 export default theme;
